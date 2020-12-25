@@ -1,4 +1,4 @@
-# client_server_applications
+# MCV Tic Tac Toe
 
 A client server tic tac toe application creating using the following:
 
