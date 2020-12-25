@@ -1,4 +1,4 @@
-# MCV Tic Tac Toe
+# MVC Tic Tac Toe
 
 A client server tic tac toe application creating using the following:
 
